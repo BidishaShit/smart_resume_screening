@@ -1,4 +1,4 @@
-# 📄 Smart Resume Screening Pipeline
+#  Smart Resume Screening Pipeline
 
 An AI-powered resume screening system that automates candidate evaluation, ranking, and reporting. This tool processes PDF resumes, predicts hiring suitability using a trained ML model, and generates a structured multi-sheet Excel report.
 
